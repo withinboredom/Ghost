@@ -1,3 +1,15 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
 	url = https://github.com/TryGhost/Casper.git
+[submodule "content/themes/uno"]
+	path = content/themes/uno
+	url = git@github.com:withinboredom/uno.git
+[submodule "content/themes/Orre-Theme-for-Ghost"]
+	path = content/themes/Orre-Theme-for-Ghost
+	url = git@github.com:withinboredom/Orre-Theme-for-Ghost.git
+[submodule "content/themes/magnum"]
+	path = content/themes/magnum
+	url = git@github.com:withinboredom/magnum.git
+[submodule "content/themes/mtheme"]
+	path = content/themes/mtheme
+	url = git@github.com:readypress/mtheme.git
